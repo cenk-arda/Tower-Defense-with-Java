@@ -18,3 +18,9 @@ Main Class box and after
 clicking Apply&OK, simply press Run button.
 
 
+*You can built 3 types of towers. To place one, first move your mouse cursor onto the square that you want to built the tower.\
+Then use one the key combinations of the towers defined below. There are 3 types of towers:\
+Ice: While the Ctrl key is pressed, left click with your mouse.\
+Poison: While the Alt key is pressed, left click with your mouse.\
+Regular: While the AltGraph key is pressed, left click with your mouse.
+
