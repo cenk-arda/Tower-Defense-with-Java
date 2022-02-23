@@ -2,7 +2,10 @@
 ## CENG-443 Introduction to Object Oriented Programming
 ### HW-1
 
+
 **Tower Defense** \
+The objective of this assignment was to learn the basics of object oriented design principles, Unified Modeling Language (UML) and design patterns. I built a small graphical Tower Defense game using Java8+.
+
 \
 To run: \
 ***On terminal (Ubuntu):***
